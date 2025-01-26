@@ -1,4 +1,8 @@
-## Hi there 👋
+```
+~ $ cat selfetch.txt
+self taught
+```
+<!--## Hi there 👋
 
 <!--
 **ad1w/ad1w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
