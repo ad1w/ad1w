@@ -1,6 +1,7 @@
 ```
 ~ $ cat selfetch.txt
 self taught
+https://github.com/diws1 [old repo]
 ```
 <!--
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
