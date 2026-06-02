@@ -1,7 +1,6 @@
 ```
 ~ $ cat selfetch.txt
-self taught
-https://github.com/diws1 [old repo]
+a self taught
 ```
 <!--
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -25,6 +24,8 @@ https://github.com/diws1 [old repo]
 <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" />
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
+<div align="left" />
+<i><b>My old repo [not maintained]: https://github.com/diws1</i></b>
 
 <!--## Hi there 👋
 
